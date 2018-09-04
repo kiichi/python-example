@@ -1,5 +1,7 @@
 # Reading
 
+[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
+
 Deep Learning - http://www.deeplearningbook.org/
 
 Introduction to Neural Networks - Google Slides - https://docs.google.com/presentation/d/1GN2P8Kztjp_nSoNquaNRIEkYERJ_FmZ80ZP8T50bDKc/edit#slide=id.g1ffbeba0e7_0_238
