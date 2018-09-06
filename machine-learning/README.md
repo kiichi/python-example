@@ -2,19 +2,21 @@
 
 [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 
-Deep Learning - http://www.deeplearningbook.org/
+[Deep Learning Book](http://www.deeplearningbook.org/)
 
-Introduction to Neural Networks - Google Slides - https://docs.google.com/presentation/d/1GN2P8Kztjp_nSoNquaNRIEkYERJ_FmZ80ZP8T50bDKc/edit#slide=id.g1ffbeba0e7_0_238
+[Introduction to Neural Networks](https://docs.google.com/presentation/d/1GN2P8Kztjp_nSoNquaNRIEkYERJ_FmZ80ZP8T50bDKc/edit#slide=id.g1ffbeba0e7_0_238)
 
 
-Original Paper by Hinton's group about backpropagation
-6088 - V323.indd - http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf
+[Original Paper by Hinton's group about backpropagation](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 
-Rectified Linear Units (ReLU) in Deep Learning | Kaggle - https://www.kaggle.com/dansbecker/rectified-linear-units-relu-in-deep-learning
+[Introduction to Neural Networks - Google Slides - https://docs.google.com/presentation/d/1GN2P8Kztjp_nSoNquaNRIEkYERJ_FmZ80ZP8T50bDKc/edit#slide=id.g1ffbeba0e7_0_238 - Google Search](https://www.google.com/search?q=Introduction+to+Neural+Networks+-+Google+Slides+-+https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1GN2P8Kztjp_nSoNquaNRIEkYERJ_FmZ80ZP8T50bDKc%2Fedit%23slide%3Did.g1ffbeba0e7_0_238&rlz=1C5CHFA_enUS727US727&oq=Introduction+to+Neural+Networks+-+Google+Slides+-+https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1GN2P8Kztjp_nSoNquaNRIEkYERJ_FmZ80ZP8T50bDKc%2Fedit%23slide%3Did.g1ffbeba0e7_0_238&aqs=chrome..69i57.146j0j1&sourceid=chrome&ie=UTF-8)
+
+
+[neuron-functions-segmoid-relu-etc](http://localhost:8888/notebooks/work/python/python-example/machine-learning/neuron-segmoid-relu-binary/neuron-functions-segmoid-relu-etc.ipynb)
+
+[Rectified Linear Units (ReLU) in Deep Learning | Kaggle](https://www.kaggle.com/dansbecker/rectified-linear-units-relu-in-deep-learning)
 
 Keep it simple! How to understand Gradient Descent algorithm - https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html
-
-Introduction to Neural Networks - Google Slides - https://docs.google.com/presentation/d/1GN2P8Kztjp_nSoNquaNRIEkYERJ_FmZ80ZP8T50bDKc/edit#slide=id.g1ffbeba0e7_0_238
 
 
 # From the scratch
